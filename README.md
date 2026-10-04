@@ -168,6 +168,6 @@ The final dashboard provides a centralised reporting view of advertising campaig
 
 **Lebeko Peter Lebepe**
 
-Data Analytics & Compliance Specialist
+Senior Adlytics Operator
 
 GitHub: [My GitHub Profile](https://github.com/)
