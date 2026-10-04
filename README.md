@@ -4,7 +4,7 @@ An interactive Excel dashboard designed to analyse advertising campaign performa
 
 ## Dashboard Preview
 
-![Advertising Campaign Dashboard](screenshots/dashboard.png)
+![Advertising Campaign Dashboard](screenshots/dashboard-preview.png)
 
 ---
 
